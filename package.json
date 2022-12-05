@@ -1,0 +1,25 @@
+{
+  "name": "openrpa",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-rpa/openrpa.git"
+  },
+  "homepage": "https://github.com/open-rpa/openrpa",
+  "bugs": {
+    "url": "https://community.openiap.io/"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@openiap/openflow": "^1.4.35",
+    "@openiap/nodered": "^1.4.35"
+  },
+  "funding": "https://github.com/sponsors/skadefro",
+  "author": "OpenIAP ApS / Allan Zimmermann",
+  "license": "MPL-2.0",
+  "keywords": ["rpa", "openrpa", "openflow", "openiap"]
+}
